@@ -1,4 +1,4 @@
-## Rime 鼠须管（Squirrel）朙月拼音、小鹤双拼、自然码双拼配置详解
+## Rime 鼠须管（Squirrel）朙月拼音、MS双拼配置详解
 
 ![](https://i.imgur.com/mMM6Tft.png)
 
@@ -30,9 +30,7 @@
 
 定制详解：[点击这里](https://ssnhd.com/2022/01/06/rime/)。
 
----
-### [👏 购买 Google Voice 点击这里 👏](https://t.me/GVStore)
-[![](https://i.imgur.com/RELjhoN.png)](https://t.me/GVStore)
+
 
 ### 更新日志
 
