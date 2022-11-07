@@ -1,4 +1,4 @@
-## Rime 鼠须管（Squirrel）朙月拼音、MS双拼配置详解
+## Rime 小狼毫 （Weasel）朙月拼音、MS双拼配置
 
 ### 特点
 * 朙月拼音、MS双拼
