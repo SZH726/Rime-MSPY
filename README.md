@@ -1,7 +1,7 @@
 ## Rime 鼠须管（Squirrel）朙月拼音、MS双拼配置详解
 
 ### 特点
-* 朙月拼音（默认）、MS双拼
+* 朙月拼音、MS双拼
 ---
 ### 安装
 下载 [鼠须管](https://github.com/rime/squirrel/releases/download/0.15.2/Squirrel-0.15.2.zip)，安装后菜单栏点选【ㄓ】开始使用输入法，默认繁体输出，通过快捷键 `Control+｀` 切换输入方式，例如选择【朙月拼音·简化字】简体输出。
