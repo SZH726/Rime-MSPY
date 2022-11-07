@@ -1,12 +1,5 @@
 ## Rime 鼠须管（Squirrel）朙月拼音、MS双拼配置详解
 
-![](https://i.imgur.com/mMM6Tft.png)
-
-
-- [Rime 群](https://t.me/rimeim)
-- [V2EX 群](https://t.me/V2EXPro)
-- 欢迎关注：[Twitter](https://twitter.com/muzhilau)
-
 ### 特点
 
 * 朙月拼音（默认）、小鹤双拼、自然码双拼
